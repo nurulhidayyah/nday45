@@ -53,9 +53,10 @@ header {
 }
 
 .container {
-  width: 1170px;
+  max-width: 1170px;
+  width: 100%;
   padding: 0 15px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .top-wrapper {
