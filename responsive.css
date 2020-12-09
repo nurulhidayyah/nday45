@@ -15,7 +15,7 @@
 }
 
 /* Untuk Smartphone */
-@media all and (max-width: 500px) {
+@media all and (max-width: 670px) {
   .lesson {
     width: 100%;
   }
@@ -43,7 +43,7 @@
   
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon{
-    display: block;
+    display: none;
   }
   
   .top-wrapper h1 {
