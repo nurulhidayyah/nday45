@@ -46,7 +46,7 @@ body {
     font: 16px/28px arial, sans-serif;
     background-color: #eaeaea;
     color: #333;
-	background-image: url(img/sativa.png);
+	background-image: url(sativa.png);
 }
 .top-bar {
 	position: fixed;
@@ -68,7 +68,7 @@ body {
 .twetter {
 	width: 200px;
 	height: 200px;
-	background-image: url(img/twetter.png);
+	background-image: url(twetter.png);
 	background-repeat: no-repeat;
 	display: inline-block;
 	text-indent: -9999px;
@@ -101,7 +101,7 @@ body {
 }
 .hero {
 	height: 250px;
-	background-image: url(img/hero.png);
+	background-image: url(hero.png);
 	background-size: cover;
 	background-position: 0 -150px;
 	border-top: 5px solid lightskyblue;
